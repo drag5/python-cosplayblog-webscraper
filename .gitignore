@@ -1,0 +1,14 @@
+#general:
+.vscode/
+__pycache__
+
+
+#project-specific:
+images/
+mpzeros/
+
+gallery_data.json
+log.txt
+
+#temp:
+sitesource.html
