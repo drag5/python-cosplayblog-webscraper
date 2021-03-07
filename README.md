@@ -1,5 +1,6 @@
 # python-cosplayblog-webscraper
 A web scraping script to save photos from mpzerocos and possibly other exblog.jp blogs
+following the same style.
 
 
 You can use it by running the script from "main.py".
